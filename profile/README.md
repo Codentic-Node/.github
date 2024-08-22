@@ -1,7 +1,3 @@
-Here's a draft for your GitHub README file:
-
----
-
 # Codentic-Node
 
 Welcome to **Codentic-Node**, an organization dedicated to testing and development. This organization serves as the testing ground for **Nodel**, a project focused on automating the deployment of various applications.
